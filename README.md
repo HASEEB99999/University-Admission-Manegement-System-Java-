@@ -1,1 +1,1 @@
-# University-Admission-Manegement-System-Java-
+# University Admission Manegement System-Java-
